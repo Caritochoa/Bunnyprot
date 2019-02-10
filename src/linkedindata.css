@@ -1,0 +1,19 @@
+.title_tupanel {
+  color: white;
+}
+
+.panel_card {
+  width: 50%;
+  background-color: white;
+  margin: auto;
+  height: 200px;
+  border-radius: 8px;
+}
+
+.in_panelcard {
+  padding-top: 2px;
+  background-color: #546e7a;
+  height: 50px;
+  margin-top: 41px;
+  margin-left: 0px;
+}

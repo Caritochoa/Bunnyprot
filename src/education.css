@@ -1,0 +1,14 @@
+.edu_card {
+  width: 50%;
+  background-color: white;
+  margin-left: 10px;
+  height: 120px;
+  border-radius: 8px;
+}
+
+.in_educard {
+  padding-top: 5px;
+  background-color: #f5f6f7;
+  height: 50px;
+  margin-top: 41px;
+}

@@ -1,0 +1,104 @@
+.profile-container {
+  text-align: center;
+  align-items: center;
+  vertical-align: middle;
+  background-color: #d5d3d4;
+  padding-bottom: 100px;
+}
+
+.prof_img {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  margin-top: 100px;
+}
+
+.recomendations_section {
+  height: 1600px;
+  background-color: #eaedef;
+  text-align: center;
+  margin-top: 0px;
+  align-items: center;
+}
+
+.cards_recomendation_section {
+  margin-top: 200px;
+}
+
+.text_recomendation {
+  padding-top: 100px;
+}
+
+.card_container {
+  background-color: white;
+}
+
+.alex_card {
+  width: 25%;
+  background-color: white;
+
+  margin: auto;
+  height: 400px;
+  border-radius: 8px;
+}
+
+.colorfringe {
+  background-color: #8799a2;
+  height: 100px;
+  padding-top: 10px;
+}
+
+.view_rec {
+  margin-right: 50px;
+}
+.split {
+  margin-top: 30px;
+  margin-bottom: 300px;
+}
+.split_left {
+  position: absolute;
+  left: 50px;
+  width: 50%;
+}
+
+.split_right {
+  position: absolute;
+  right: 0px;
+  width: 50%;
+}
+
+.jobs_container {
+  margin-left: 20px;
+}
+
+.Education_container {
+  margin-top: 100px;
+  margin-left: 20px;
+}
+
+.button_torre {
+  background-color: #546e7a;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.button_weight {
+  background-color: #546e7a; /*I changed the color for visibility issues*/
+  border: none;
+  border-radius: 15px;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
