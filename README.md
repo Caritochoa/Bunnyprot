@@ -14,6 +14,7 @@ the relevant data for the features.
 Please have in mind when you click the button IMPORT FROM LINKEDIN
 the first feature loads under the Fold, remember to scroll down to visualize
 the imported features.
+And to return to the Torrebio profile the link CAROLINA takes you there.
 
 To interact with The app
 
