@@ -57,7 +57,7 @@ class Header extends Component {
             <ul classname="menu__listb">
               <li className="menu__list-item">
                 <a className="menu__link" href="#">
-                  CAROLINA
+                  <Link to="/"> CAROLINA</Link>
                 </a>
               </li>
               <li className="menu__list-item">
