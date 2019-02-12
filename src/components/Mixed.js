@@ -56,7 +56,7 @@ class Mixed extends Component {
                     <p>Recommends Carolina </p>
                     <p> for Early adopter</p>
                   </div>
-                  <p>Alexander is/was Carolina's supllier for</p>
+                  <p>Alexander is/was Carolina supllier for</p>
                   <p>hours</p>
                   <p>
                     Recomendation weight: {this.state.person.person.weight}{" "}
