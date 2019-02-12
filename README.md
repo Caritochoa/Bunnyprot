@@ -11,7 +11,7 @@ so I decided to move forward in order to complete the test.
 To solve this problem I created a Json server from where I called
 the relevant data for the features.
 
-Please have in mind when you click the button IMPORT FROM LINKEDIN
+Please have in mind when you click the button  "IMPORT FROM LINKEDIN"
 the first feature loads under the Fold, remember to scroll down to visualize
 the imported features.
 And to return to the Torrebio profile the link CAROLINA takes you there.
